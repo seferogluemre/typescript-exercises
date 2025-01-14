@@ -6,3 +6,6 @@ function greet(name: string): string {
 
 const user = "World";
 console.log(greet(user));
+
+let id: string | number = 23;
+id = "Emre";
